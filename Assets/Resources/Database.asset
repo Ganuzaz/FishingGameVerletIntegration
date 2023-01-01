@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a9a28591f859a34ea483b3a1713b1b4, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  fishDictionary:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 00000000010000000200000003000000
+    _keys: 00000000010000000200000003000000
+    _values:
+    - {fileID: 2821122002567799285, guid: 21d6b7c7b42ee3d4aaf7d2fda2dc68f4, type: 3}
+    - {fileID: 5780467250164601521, guid: 54086f7b8df26a34a99469fca0f36c8f, type: 3}
+    - {fileID: 13004424415840968, guid: 7d2457195366c6a4ab102cc95ca841d4, type: 3}
+    - {fileID: 2531226122979357654, guid: 0bd56939278632a44ba35f0ffe9e0d0f, type: 3}
